@@ -23,9 +23,11 @@ Apply the pre-trained RF model to classify LULC in Sentinel-2 imagery and genera
 # Getting Started
 ## Prerequisites
 
-### Python
-### Jupyter Notebook or another Python Integrated Development Environment (IDE) depends on your preferences
-### Required Python libraries (specified in notebook)
+ Python
+
+ Jupyter Notebook or another Python Integrated Development Environment (IDE) depends on your preferences
+ 
+Required Python libraries (specified in notebook)
 
 # Deployment
 
